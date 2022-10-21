@@ -13,6 +13,7 @@ I am **Daniyal Mohammed**, student and interested in Software Engineering.
 
 [![](https://github-readme-stats.vercel.app/api?username=daniyalmohammed&count_private=true)](https://github-readme-stats.vercel.app/api?username=daniyalmohammed&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniyalmohammed)](https://github.com/daniyalmohammed/github-readme-stats)
 
 
 <!--
