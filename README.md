@@ -9,8 +9,6 @@ I am **Daniyal Mohammed**, student and interested in Software Engineering.
 
 **Languages:** C++, Python, JavaScript, C, Swift, C#, HTML/CSS, R, Bash
 
-**Developer Tools:** VSCode, Unity, XCode, GitHub, Git, Postman
-
 **Technologies/Frameworks:** Google Firebase, MongoDB, NodeJS, React, ExpressJS, Auth0
 
 [![](https://github-readme-stats.vercel.app/api?username=daniyalmohammed&count_private=true)](https://github-readme-stats.vercel.app/api?username=daniyalmohammed&count_private=true)
