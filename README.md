@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![Github](https://img.shields.io/github/followers/daniyalmohammed?label=Follow&style=social)](https://github.com/daniyalmohammed)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=daniyalmohammed.daniyalmohammed)
-
 I am **Daniyal Mohammed**, student and interested in Software Engineering. 
 	
 - 🎓 Computational Mathematics at the University of Waterloo, Class of 2026
