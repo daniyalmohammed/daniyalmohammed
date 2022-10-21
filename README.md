@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+[![Github](https://img.shields.io/github/followers/daniyalmohammed?label=Follow&style=social)](https://github.com/daniyalmohammed)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=daniyalmohammed.daniyalmohammed)
+
+I am **Daniyal Mohammed**, student and interested in Software Engineering. 
+	
+- 🎓 Computational Mathematics at the University of Waterloo, Class of 2026
+- 📚 Interested in Algorithms, Game Theory and Data Science
+- 🏀 Some Hobbies: Basketball, Writing, Travelling
+- 🏆 Hack the North 2022 Winner (Project SeeHawk), Creator of Quillow, a book management tracker app on the App Store
+
+**Languages:** C++, C#, Python, C, JavaScript, HTML & CSS
+
+**Technologies:** React, Flutter, NodeJS, Git, Google Cloud Platform, AWS, Figma
+
+[![](https://github-readme-stats.vercel.app/api?username=daniyalmohammed&count_private=true)](https://github-readme-stats.vercel.app/api?username=daniyalmohammed&count_private=true)
+
+
+
 <!--
 **daniyalmohammed/daniyalmohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
