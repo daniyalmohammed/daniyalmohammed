@@ -9,7 +9,7 @@ I am **Daniyal Mohammed**, student and interested in Software Engineering.
 
 **Languages:** C++, Python, JavaScript, C, Swift, C#, HTML/CSS, R, Bash
 
-**Technologies/Frameworks:** Google Firebase, MongoDB, NodeJS, React, ExpressJS, Auth0
+**Technologies/Frameworks:**  AWS Lambda, Google Firebase, MongoDB, NodeJS, React
 
 [![](https://github-readme-stats.vercel.app/api?username=daniyalmohammed&count_private=true)](https://github-readme-stats.vercel.app/api?username=daniyalmohammed&count_private=true)
 
