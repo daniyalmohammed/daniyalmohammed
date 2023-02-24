@@ -2,8 +2,8 @@
 
 I am **Daniyal Mohammed**, student and interested in Software Engineering. 
 	
-- 🎓 Computational Mathematics at the University of Waterloo, Class of 2026
-- 📚 Interested in Algorithms, Game Theory and Data Science
+- 🎓 Data Science at the University of Waterloo, Class of 2026
+- 📚 Interested in Algorithms, Game Theory and Machine Learning
 - 🏀 Hobbies: Basketball, Writing, Travelling
 - 🏆 Hack the North 2022 Winner (Project SeeHawk), Created Quillow, book management app on the App Store
 
