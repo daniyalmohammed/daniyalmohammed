@@ -5,7 +5,7 @@ I am **Daniyal Mohammed**, student and interested in Software Engineering.
 - 🎓 Data Science Student at the University of Waterloo, Class of 2025
 - 📚 Interested in Algorithms, Game Theory and Mobile App Development
 - 🏀 Hobbies: Basketball, Reading, Travelling
-- 🛠️ Built: Led development of AI Resume Writer, deployed on the Play Store and App Store with $50+ monthly revenue, Created Quillow, book management app on the App Store
+- 🛠️ Built: Led development of AI Resume Writer, deployed on the Play Store and App Store with $1000+ monthly revenue, Created Quillow, book management app on the App Store
 - 🏆 Hack the North 2022 Winner (Project SeeHawk), Intact Data Science Challenge 2023 Winner
 
 **Languages:** C++, Python, JavaScript, C, Swift, C#, HTML/CSS, R, Bash
